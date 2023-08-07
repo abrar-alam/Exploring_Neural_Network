@@ -1,8 +1,8 @@
 # Project Objective
 ### Part A:
-We built a quartic function approximator using Tensorflow and Keras API to approximate how ReLU, tanh, and sigmoid activation functions behave using shuffled and unsguffled dataset using two different network structures.
+We built a quartic function approximator using Tensorflow and Keras API to approximate how ReLU, tanh, and sigmoid activation functions behave using shuffled and unsguffled dataset using two different neural network structures.
 
-#### Network structures
+#### Neural Network structures
 *   Structure 1:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FCL: 12 Neurons (first hidden layer)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FCL: 8 Neurons (second hidden layer)<br>
